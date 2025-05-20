@@ -1,0 +1,8 @@
+opencv-python
+dlib
+numpy
+scipy
+fastapi
+uvicorn[standard]
+python-multipart
+dlib
